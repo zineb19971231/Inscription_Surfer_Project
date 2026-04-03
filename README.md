@@ -57,8 +57,5 @@ Le projet est structuré pour séparer la logique métier de l'affichage :
 └── config/             # Connexion PDO
 
 
-## 1. DASHBOARD INSCRIPTION 🏄‍♂️
-
-C'est l'interface qui permet aux nouveaux passionnés de surf de rejoindre la communauté **Taghazout Surf Expo**.
 <img width="1650" height="912" alt="image" src="https://github.com/user-attachments/assets/3e43a4e1-fdf1-40e0-9912-79a2051f7012" />
 
