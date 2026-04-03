@@ -55,3 +55,7 @@ Le projet est structuré pour séparer la logique métier de l'affichage :
 ├── public/
 │   └── index.php       # Point d'entrée unique
 └── config/             # Connexion PDO
+
+
+### 1.DASHBOARD INSCRIPTION
+![INSCRIPTION](./register.png)
